@@ -1,4 +1,8 @@
 [core]
     remote = storage
 ['remote "storage"']
+<<<<<<< HEAD
     url = gdrive://14QxeGjgvhI_MrsYUapESd6raIkEJFRQ3
+=======
+    url = gdrive://1mJnHkmDMEcQIb2wEGjMgm4iLpKYPVbZW
+>>>>>>> ec2bea82da1b8167685503ab6a5766257dc451e5
